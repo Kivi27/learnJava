@@ -8,6 +8,7 @@ class SimpleCalculator {
         long num1 = scanner.nextLong();
         String operator = scanner.next();
         long num2 = scanner.nextLong();
+        scanner.close();
         chooseOperation(num1,operator,num2);
     }
 

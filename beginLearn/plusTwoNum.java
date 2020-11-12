@@ -6,6 +6,7 @@ class plusTwoNum {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
+        scanner.close();
         System.out.println("result " + a + " + " + b + "  = " + (a+b));
     }
 }
