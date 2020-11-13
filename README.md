@@ -1,5 +1,3 @@
-# learnJava
-
 <h1>My diary</h1>
 <h2>Introduction</h2>
 <p>
