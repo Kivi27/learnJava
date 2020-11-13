@@ -1,7 +1,7 @@
 <h1>My diary</h1>
 <h2>My projects</h2>
 <p>
-  <a href = "https://github.com/Kivi27/CoffeeMachine"> </a>
+  <a href = "https://github.com/Kivi27/CoffeeMachine">Coffee Machine</a>
 </p>
 <h2>Introduction</h2>
 <p>
