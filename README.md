@@ -5,7 +5,7 @@
 </p>
 <h2>Introduction</h2>
 <p>
-  Hi, unknown developer.
-  This is my personal diary for learning a programming language.
-  Here I will share my thoughts and send various examples to Java in this repository
+  Hi, unknown developer.</br>
+  This is my personal diary for learning a programming language.</br>
+  Here I will share my thoughts and send various examples to Java in this repository</br>
 </p>
