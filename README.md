@@ -1,4 +1,8 @@
 <h1>My diary</h1>
+<h2>My projects</h2>
+<p>
+  <a href = " "> </a>
+</p>
 <h2>Introduction</h2>
 <p>
   Hi, unknown developer.
