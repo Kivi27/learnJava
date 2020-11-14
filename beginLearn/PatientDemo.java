@@ -19,5 +19,3 @@ public class PatientDemo {
         System.out.println(alice.name + " " + alice.age + " " + alice.height);
     }
 }
-
-
